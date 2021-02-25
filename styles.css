@@ -1,0 +1,43 @@
+body {
+    background-color: #0e0ef0;
+}
+
+a:visited {
+    color: #ad1515;
+}
+
+h1 {
+    text-align: center;
+    color: #e66781;
+}
+
+body {
+    color: #bcf5ca;
+}
+
+img {
+    width: 200px;
+    border:10px solid black;
+    padding:25px;
+    background-color:white;
+}
+
+h1 {
+    font-family: Nerko One, cursive;
+}
+
+h3 {
+    font-family: lobster two, cursive;
+    color: #33ccff;
+}
+
+li {
+    font-family: rajdhani, sans-serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
